@@ -1,0 +1,50 @@
+[
+  {
+    "ID": 1,
+    "DATA": {
+      "titulo": "Residencial",
+      "texto": "Residencia realizada dia 01/04/201X",
+      "cat": "residencial",
+      "imagens": [
+        "teste/1.jpg",
+        "teste/2.jpg",
+        "teste/3.jpg",
+        "teste/4.jpg",
+        "teste/5.jpg",
+        "teste/6.jpg"
+      ]
+    }
+  },
+  {
+    "ID": 2,
+    "DATA": {
+      "titulo": "Comercial",
+      "texto": "Ponto comercial realizado dia 01/04/201X",
+      "cat": "comercial",
+      "imagens": [
+        "teste/4.jpg",
+        "teste/2.jpg",
+        "teste/3.jpg",
+        "teste/6.jpg",
+        "teste/1.jpg",
+        "teste/5.jpg"
+      ]
+    }
+  },
+  {
+    "ID": 3,
+    "DATA": {
+      "titulo": "Edificio",
+      "cat": "edificio",
+      "texto": "Edificio realizado dia 01/04/201X",
+      "imagens": [
+        "teste/5.jpg",
+        "teste/3.jpg",
+        "teste/2.jpg",
+        "teste/6.jpg",
+        "teste/4.jpg",
+        "teste/1.jpg"
+      ]
+    }
+  }
+]
